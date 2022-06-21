@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin&family=Montserrat&display=swap');
+*{
+    font-family: 'Anek Latin', sans-serif;
+    background-color: red;
+}
+.kol a{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
